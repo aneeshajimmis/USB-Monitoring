@@ -1,0 +1,97 @@
+2026-06-10 09:58:16,948 - AUTHORIZED | Action=add | Vendor=05ac | Product=12a8 | Serial=00008120001665AE1ED8C01E
+2026-06-10 09:58:16,973 - AUTHORIZED | Action=bind | Vendor=05ac | Product=12a8 | Serial=00008120001665AE1ED8C01E
+2026-06-10 10:00:45,077 - UNAUTHORIZED | Action=add |  Vendor=05ac | Product=12a8 | Serial=00008120001665AE1ED8C01E
+2026-06-10 10:00:45,102 - UNAUTHORIZED | Action=bind |  Vendor=05ac | Product=12a8 | Serial=00008120001665AE1ED8C01E
+2026-06-10 10:41:10,079 - UNAUTHORIZED | Action=add |  Vendor=05ac | Product=12a8 | Serial=00008120001665AE1ED8C01E
+2026-06-10 10:41:10,092 - UNAUTHORIZED | Action=bind |  Vendor=05ac | Product=12a8 | Serial=00008120001665AE1ED8C01E
+2026-06-10 10:58:12,767 - UNAUTHORIZED | Action=add |  Vendor=05ac | Product=12a8 | Serial=00008120001665AE1ED8C01E
+2026-06-10 10:58:12,805 - UNAUTHORIZED | Action=bind |  Vendor=05ac | Product=12a8 | Serial=00008120001665AE1ED8C01E
+2026-06-10 10:59:41,100 - UNAUTHORIZED | Action=add |  Vendor=05ac | Product=12a8 | Serial=00008120001665AE1ED8C01E
+2026-06-10 10:59:41,114 - UNAUTHORIZED | Action=bind |  Vendor=05ac | Product=12a8 | Serial=00008120001665AE1ED8C01E
+2026-06-10 12:11:09,486 - File Created | ./test_usb/test.txt
+2026-06-10 12:11:09,488 - File modified | ./test_usb/test.txt
+2026-06-10 12:11:47,399 - File modified | ./test_usb/test.txt
+2026-06-10 12:12:23,064 - File deleted | ./test_usb/test.txt
+2026-06-10 12:34:13,000 - File Created | ./test_usb/test.txt | SHA256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-06-10 12:34:13,001 - File modified | ./test_usb/test.txt
+2026-06-10 12:34:33,128 - File modified | ./test_usb/test.txt
+2026-06-10 12:35:02,642 - File deleted | ./test_usb/test.txt
+2026-06-10 12:35:09,632 - File Created | ./test_usb/test.txt | SHA256=HASH ERROR
+2026-06-10 12:35:09,632 - File modified | ./test_usb/test.txt
+2026-06-10 12:37:16,872 - File deleted | ./test_usb/test.txt
+2026-06-10 12:37:24,789 - File Created | ./test_usb/test.txt | SHA256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-06-10 12:37:24,790 - File modified | ./test_usb/test.txt
+2026-06-10 12:37:36,369 - File modified | ./test_usb/test.txt
+2026-06-10 12:37:51,907 - UNAUTHORIZED | Action=add |  Vendor=80ee | Product=0010 | Serial=None
+2026-06-10 12:37:51,964 - UNAUTHORIZED | Action=bind |  Vendor=80ee | Product=0010 | Serial=None
+2026-06-10 12:37:52,356 - UNAUTHORIZED | Action=add |  Vendor=80ee | Product=0021 | Serial=None
+2026-06-10 12:37:52,459 - UNAUTHORIZED | Action=bind |  Vendor=80ee | Product=0021 | Serial=None
+2026-06-10 12:43:46,679 - File deleted | ./test_usb/test.txt
+2026-06-10 12:43:50,960 - File Created | ./test_usb/test.txt | SHA256=HASH ERROR
+2026-06-10 12:43:50,961 - File Modified | ./test_usb/test.txt | SHA256=HASH ERROR
+2026-06-10 12:43:58,889 - File deleted | ./test_usb/test.txt
+2026-06-10 12:44:03,932 - File Created | ./test_usb/test.txt | SHA256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-06-10 12:44:03,933 - File Modified | ./test_usb/test.txt | SHA256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-06-10 12:44:27,902 - File Created | ./test_usb/.test.txt.swp | SHA256=HASH ERROR
+2026-06-10 12:44:27,903 - File Modified | ./test_usb/.test.txt.swp | SHA256=HASH ERROR
+2026-06-10 12:44:29,398 - File deleted | ./test_usb/.test.txt.swp
+2026-06-10 12:44:29,398 - File Created | ./test_usb/.test.txt.swp | SHA256=HASH ERROR
+2026-06-10 12:44:29,398 - File Modified | ./test_usb/.test.txt.swp | SHA256=HASH ERROR
+2026-06-10 12:44:35,299 - File Modified | ./test_usb/test.txt | SHA256=HASH ERROR
+2026-06-10 12:44:35,301 - File deleted | ./test_usb/.test.txt.swp
+2026-06-10 12:44:59,283 - File Created | ./test_usb/.test.txt.swp | SHA256=HASH ERROR
+2026-06-10 12:44:59,284 - File Modified | ./test_usb/.test.txt.swp | SHA256=HASH ERROR
+2026-06-10 12:45:03,264 - File deleted | ./test_usb/.test.txt.swp
+2026-06-10 12:45:39,986 - File Modified | ./test_usb/test.txt | SHA256=HASH ERROR
+2026-06-10 12:45:53,188 - File Created | ./test_usb/.test.txt.swp | SHA256=HASH ERROR
+2026-06-10 12:45:53,188 - File Modified | ./test_usb/.test.txt.swp | SHA256=HASH ERROR
+2026-06-10 12:45:56,124 - File deleted | ./test_usb/.test.txt.swp
+2026-06-10 13:00:40,831 - File deleted | ./test_usb/test.txt
+2026-06-10 13:00:47,219 - File Created | ./test_usb/test.txt | SHA256=HASH ERROR
+2026-06-10 13:00:47,220 - File Modified | ./test_usb/test.txt | SHA256=HASH ERROR
+2026-06-10 13:00:54,481 - File Modified | ./test_usb/test.txt | SHA256=HASH ERROR
+2026-06-10 13:01:00,239 - File deleted | ./test_usb/test.txt
+2026-06-10 13:01:02,820 - File Created | ./test_usb/test.txt | SHA256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-06-10 13:01:02,821 - File Modified | ./test_usb/test.txt | SHA256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-06-10 13:01:18,170 - File deleted | ./test_usb/.test.txt.swp
+2026-06-10 13:01:22,884 - File Modified | ./test_usb/test.txt | SHA256=HASH ERROR
+2026-06-10 13:01:22,886 - File deleted | ./test_usb/.test.txt.swp
+2026-06-10 13:01:50,942 - File Modified | ./test_usb/test.txt | SHA256=HASH ERROR
+2026-06-10 13:02:06,657 - File Modified | ./test_usb/test.txt | SHA256=HASH ERROR
+2026-06-10 13:02:15,781 - File deleted | ./test_usb/test.txt
+2026-06-10 13:06:01,021 - File Created | ./test_usb/test.txt | SHA256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-06-10 13:06:01,022 - File Modified | ./test_usb/test.txt | SHA256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-06-10 13:06:15,389 - File Modified | ./test_usb/test.txt | SHA256=HASH ERROR
+2026-06-10 13:06:24,452 - File deleted | ./test_usb/test.txt
+2026-06-10 13:06:27,332 - File Created | ./test_usb/test.txt | SHA256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-06-10 13:06:27,333 - File Modified | ./test_usb/test.txt | SHA256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-06-10 13:08:57,779 - File Modified | ./test_usb/test.txt | SHA256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-06-10 13:09:10,947 - File Modified | ./test_usb/test.txt | SHA256=HASH ERROR: '_hashlib.HASH' object has no attribute 'updated'
+2026-06-10 13:09:30,299 - File deleted | ./test_usb/test.txt
+2026-06-10 13:09:36,748 - File Created | ./test_usb/test.txt | SHA256=HASH ERROR: '_hashlib.HASH' object has no attribute 'updated'
+2026-06-10 13:09:36,749 - File Modified | ./test_usb/test.txt | SHA256=HASH ERROR: '_hashlib.HASH' object has no attribute 'updated'
+2026-06-10 13:09:43,503 - File deleted | ./test_usb/test.txt
+2026-06-10 13:09:47,486 - File Created | ./test_usb/test.txt | SHA256=HASH ERROR: '_hashlib.HASH' object has no attribute 'updated'
+2026-06-10 13:09:47,487 - File Modified | ./test_usb/test.txt | SHA256=HASH ERROR: '_hashlib.HASH' object has no attribute 'updated'
+2026-06-10 13:09:49,748 - File deleted | ./test_usb/test.txt
+2026-06-10 13:09:53,459 - File Created | ./test_usb/test.txt | SHA256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-06-10 13:09:53,460 - File Modified | ./test_usb/test.txt | SHA256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-06-10 13:10:21,749 - File deleted | ./test_usb/test.txt
+2026-06-10 13:10:24,417 - File Created | ./test_usb/test.txt | SHA256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-06-10 13:10:24,417 - File Modified | ./test_usb/test.txt | SHA256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-06-10 13:10:34,287 - File Modified | ./test_usb/test.txt | SHA256=HASH ERROR: '_hashlib.HASH' object has no attribute 'updated'
+2026-06-10 13:15:34,976 - File Modified | ./test_usb/test.txt | SHA256=5891b5b522d5df086d0ff0b110fbd9d21bb4fc7163af34d08286a2e846f6be03
+2026-06-10 13:15:41,093 - File Modified | ./test_usb/test.txt | SHA256=cba5243834a58801d5f3460c1d21fe28c33b1e1c1bb8ce7513e1948eed3a19e4
+2026-06-10 13:15:45,083 - File Modified | ./test_usb/test.txt | SHA256=fcf30b99ad097a0a48b1bfa6be7a1d0416105c28785fefbca0cf564cc84847cd
+2026-06-10 13:15:50,751 - File deleted | ./test_usb/test.txt
+2026-06-10 13:15:54,617 - File Created | ./test_usb/test.txt | SHA256=5891b5b522d5df086d0ff0b110fbd9d21bb4fc7163af34d08286a2e846f6be03
+2026-06-10 13:15:54,617 - File Modified | ./test_usb/test.txt | SHA256=5891b5b522d5df086d0ff0b110fbd9d21bb4fc7163af34d08286a2e846f6be03
+2026-06-10 13:16:25,374 - File Modified | ./test_usb/test.txt | SHA256=cba5243834a58801d5f3460c1d21fe28c33b1e1c1bb8ce7513e1948eed3a19e4
+2026-06-10 13:16:29,216 - File Modified | ./test_usb/test.txt | SHA256=cba5243834a58801d5f3460c1d21fe28c33b1e1c1bb8ce7513e1948eed3a19e4
+2026-06-10 13:16:53,236 - File Modified | ./test_usb/test.txt | SHA256=12380358afef5f353376fa80fba8136b4a5ae9f343a3bf59a001b05e11105c47
+2026-06-10 16:29:44,127 - AUTHORIZED | Action=add | Vendor=05ac | Product=12a8 | Serial=00008120001665AE1ED8C01E
+2026-06-10 16:29:44,139 - AUTHORIZED | Action=bind | Vendor=05ac | Product=12a8 | Serial=00008120001665AE1ED8C01E
+2026-06-10 16:33:30,909 - UNAUTHORIZED | Action=add |  Vendor=80ee | Product=0021 | Serial=None
+2026-06-10 16:33:31,020 - UNAUTHORIZED | Action=bind |  Vendor=80ee | Product=0021 | Serial=None
+2026-06-10 16:33:31,449 - UNAUTHORIZED | Action=add |  Vendor=80ee | Product=0010 | Serial=None
+2026-06-10 16:33:31,494 - UNAUTHORIZED | Action=bind |  Vendor=80ee | Product=0010 | Serial=None

@@ -1,0 +1,20 @@
+
+	USB SECUIRTY REPORT
+	==================
+	Generated ON:
+	2026-06-10 16:33:33.979776
+
+	Total devices seen :6
+	Authorized devices :2
+	Blocked devices :4
+
+	File Activity
+	-------------
+
+	Files Created : 0
+	Files Modified :0
+	Files Delected :0
+
+	Log Files:
+	usb_audit.log
+	
